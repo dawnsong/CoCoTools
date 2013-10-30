@@ -9,3 +9,4 @@ from cocotools.utils import *
 from cocotools.brain_maps import *
 from cocotools.ort import *
 from cocotools.query_by_area import query_maps_by_area
+from cocotools.hybrid_maps import *
