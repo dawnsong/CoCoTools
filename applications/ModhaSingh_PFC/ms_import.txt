@@ -1,0 +1,382 @@
+0 Br Brain according to GM-Definition 0 0 3 0		
+1 DiE Diencephalon according to GM-Definition 4 0 1 0		
+2 Hyp Hypthalamus 10 25 9 50		
+2 Tha Thalamus 5 1 2 1		
+3 AN Anterior nuclei of the thalamus 8 8 6 11	THALAMUS	DIENCEPH
+4 LD#1 Laterodorsal nucleus (thalamus) 9 14 17 15	THALAMUS	DIENCEPH
+4 AV Nucleus anterior ventralis thalami 11 7 15 7	THALAMUS	DIENCEPH
+4 AM#1 Nucleus anterior medialis thalami 10 22 16 23	THALAMUS	DIENCEPH
+4 AD#1 Nucleus anterior dorsalis thalami 9 5 10 5	THALAMUS	DIENCEPH
+3 ML Midline nuclei of the thalamus 7 12 14 18	THALAMUS	DIENCEPH
+4 Re Nucleus reuniens thalami 11 24 14 26	THALAMUS	DIENCEPH
+4 PT#2 Nucleus parataenialis thalami 10 7 5 7	THALAMUS	DIENCEPH
+"4 PAa Nucleus paraventricularis thalami, pars anterior 9 13 13 16"	THALAMUS	DIENCEPH
+4 C#4 Nucleus centralis thalami 8 4 4 4	THALAMUS	DIENCEPH
+5 Clc Nucleus centralis latocellularis thalami 11 11 7 12	THALAMUS	DIENCEPH
+5 Cim Nucleus centralis intermedialis thalami 10 7 5 7	THALAMUS	DIENCEPH
+5 Cif Nucleus centralis inferior thalami 9 11 8 11	THALAMUS	DIENCEPH
+5 Cdc Nucleus centralis densocellularis thalami 11 17 10 19	THALAMUS	DIENCEPH
+3 GN Metathalamus (Geniculate Nucleii) 8 0 1 0	THALAMUS	DIENCEPH
+4 MG Corpus geniculatum mediale 10 23 59 49	THALAMUS	DIENCEPH
+4 LGN dorsal Lateral geniculate nucleus 9 10 78 86	THALAMUS	DIENCEPH
+3 IL#2 Intralaminar nuclei of the thalamus 7 14 5 14	THALAMUS	DIENCEPH
+4 Pf#2 Nucleus parafascicularis thalami 11 32 13 33	THALAMUS	DIENCEPH
+4 Pcn Nucleus paracentralis thalami 10 50 14 69	THALAMUS	DIENCEPH
+4 CM#2 nucleus centrum medianum (thalamus) 9 43 24 71	THALAMUS	DIENCEPH
+4 Cl#2 Nucleus centralis lateralis thalami 8 50 21 74	THALAMUS	DIENCEPH
+5 Csl Nucleus centralis superior lateralis thalami 11 28 8 31	THALAMUS	DIENCEPH
+5 Cs#2 Nucleus centralis superior thalami 10 5 6 5	THALAMUS	DIENCEPH
+3 MI#1 Massa intermedia 9 3 3 3	THALAMUS	DIENCEPH
+3 PN Posterior Nucleii of Thalamus 8 2 10 3	THALAMUS	DIENCEPH
+4 SG Nucleus suprageniculatus thalami 11 29 15 33	THALAMUS	DIENCEPH
+4 Li Nucleus limitans thalami 10 43 13 46	THALAMUS	DIENCEPH
+3 Ret Nucleus reticularis thalami 9 31 27 32	THALAMUS	DIENCEPH
+3 Pul#1 Nucleus pulvinaris thalami 7 44 32 137	THALAMUS	DIENCEPH
+4 PI#3 Nucleus pulvinaris inferior thalami 8 26 43 53	THALAMUS	DIENCEPH
+"5 PIl-s Nucleus pulvinaris inferior thalami, shell of the lateral subdivision 11 2 3 2"	THALAMUS	DIENCEPH
+"5 PIp Nucleus pulvinaris inferior thalami, posterior subdivision 10 4 8 4"	THALAMUS	DIENCEPH
+"5 PIm Nucleus pulvinaris inferior thalami, pars medialis 9 7 9 7"	THALAMUS	DIENCEPH
+"5 PIl Nucleus pulvinaris inferior thalami, lateral subdivision 11 9 8 10"	THALAMUS	DIENCEPH
+"5 PIc Nucleus pulvinaris inferior thalami, central subdivision 10 9 9 9"	THALAMUS	DIENCEPH
+4 PM#3 Nucleus pulvinaris medialis thalami 8 85 41 114	THALAMUS	DIENCEPH
+"5 PMm Nucleus pulvinaris medialis thalami, medial division 9 7 1 7"	THALAMUS	DIENCEPH
+"5 PMl Nucleus pulvinaris medialis thalami, lateral division 11 8 1 8"	THALAMUS	DIENCEPH
+4 Pul.o Nucleus pulvinaris oralis thalami 10 45 26 54	THALAMUS	DIENCEPH
+4 PL#3 Nucleus pulvinaris lateralis thalami 8 50 44 84	THALAMUS	DIENCEPH
+5 PLa#1 Nucleus pulvinaris lateralis thalami pars alpha 9 2 3 17	THALAMUS	DIENCEPH
+"5 PLd Nucleus pulvinaris lateralis thalami, dorsal division 11 5 1 5"	THALAMUS	DIENCEPH
+5 PLvl Nucleus pulvinaris lateralis thalami pars ventrolateralis 10 5 1 5	THALAMUS	DIENCEPH
+5 PLvm Nucleus pulvinaris lateralis thalami pars ventromedialis 9 5 3 5	THALAMUS	DIENCEPH
+3 MD Nucleus medialis dorsalis thalami 7 106 29 200	THALAMUS	DIENCEPH
+"4 MDdc Nucleus medialis dorsalis thalami, pars densocellularis 11 21 8 23"	THALAMUS	DIENCEPH
+"4 MDcd Nucleus medialis dorsalis thalami, pars caudodorsalis 10 5 1 9"	THALAMUS	DIENCEPH
+"4 MDl Nucleus medialis dorsalis thalami, pars lateralis 8 6 2 6"	THALAMUS	DIENCEPH
+"5 MDpc Nucleus medialis dorsalis thalami, pars parvocellularis 9 38 10 43"	THALAMUS	DIENCEPH
+"5 MDmf Nucleus medialis dorsalis thalami, pars multiformis 11 17 8 18"	THALAMUS	DIENCEPH
+"4 MDmc Nucleus medialis dorsalis thalami, pars magnocellularis 8 39 12 57"	THALAMUS	DIENCEPH
+"5 MDpm Nucleus medialis dorsalis thalami, pars paramediana 10 10 1 10"	THALAMUS	DIENCEPH
+"5 MDfi Nucleus medialis dorsalis thalami, pars fibrosa 9 21 1 22"	THALAMUS	DIENCEPH
+3 VN Ventolateral Nucleii of Thalamus 6 7 7 7	THALAMUS	DIENCEPH
+4 VP#2 Nucleus ventralis posterior 7 1 4 1	THALAMUS	DIENCEPH
+5 VPS Ventroposterior superior nucleus thalami 10 7 1 8	THALAMUS	DIENCEPH
+5 VPI Nucleus ventralis posterior inferior thalami 9 12 16 16	THALAMUS	DIENCEPH
+5 VPM Nucleus ventralis posterior medialis thalami 11 20 32 40	THALAMUS	DIENCEPH
+5 VPL Aentral posterior lateral nucleus (thalamus) 8 56 39 88	THALAMUS	DIENCEPH
+"6 VPLo Nucleus ventralis posterior lateralis thalami, pars oralis 10 20 11 48"	THALAMUS	DIENCEPH
+"6 VPLc Nucleus ventralis posterior lateralis thalami, pars caudalis 9 29 16 54"	THALAMUS	DIENCEPH
+4 VL ventral lateral nucleus (thalamus) 8 18 9 19	THALAMUS	DIENCEPH
+"5 VLm Nucleus ventralis lateralis thalami, pars medialis 11 25 10 43"	THALAMUS	DIENCEPH
+"5 VLps Nucleus ventralis lateralis thalami, pars postrema 10 21 7 25"	THALAMUS	DIENCEPH
+"5 VLo Nucleus ventralis lateralis thalami, pars oralis 9 34 11 68"	THALAMUS	DIENCEPH
+"5 VLc Nucleus ventralis lateralis thalami, pars caudalis 11 32 15 70"	THALAMUS	DIENCEPH
+4 VA ventral anterior nucleus (thalamus) 8 33 18 41	THALAMUS	DIENCEPH
+"5 VApc Nucleus ventralis anterior thalami, pars parvocellularis 10 21 8 38"	THALAMUS	DIENCEPH
+"5 VAdc Nucleus ventralis anterior thalami, pars densocellularis 9 7 1 7"	THALAMUS	DIENCEPH
+"5 VAmc Nucleus ventralis anterior thalami, pars magnocellularis 11 38 13 51"	THALAMUS	DIENCEPH
+1 Cx GM-CerebralCortex 1 0 1 0		
+2 FL#2 FrontalLobe according to GM-Definition 4 0 1 0		
+3 belt sm belt line of the sensorymotor system according to CP99 10 22 2 22	SENSORIMOTOR FRONTAL	
+3 Pfc Prefrontal Cortex 5 0 2 0	 PFC	FRONTAL
+4 PFCorb Orbital prefrontal cortex 7 10 12 14	 PFC	FRONTAL
+5 14 Orbitofrontal area 14 8 111 34 158	 PFC	FRONTAL
+6 14O Orbital part of area 14 9 5 2 6	 PFC	FRONTAL
+6 14r Rostral area 14 11 66 3 77	 PFC	FRONTAL
+"5 OFap Orbitofrontal cortex, agranular periallocortical 10 8 12 8"	 PFC	FRONTAL
+5 OFO Orbitofrontal opercular area 8 2 6 2	 PFC	FRONTAL
+6 ProM#2 Pro motor area 9 31 8 33	 PFC	FRONTAL
+6 Gu Gustatory cortex 11 22 16 2	 PFC	FRONTAL
+5 13 Orbitofrontal area 13 8 129 36 203	 PFC	FRONTAL
+"6 13L Orbitofrontal area 13, lateral part 10 47 5 55"	 PFC	FRONTAL
+"6 13M Orbitofrontal area 13, medial part 9 39 5 55"	 PFC	FRONTAL
+6 13a Orbitofrontal area 13a 11 130 15 223	 PFC	FRONTAL
+4 32 Area 32 10 159 36 226	 PFC	FRONTAL
+4 FD#1 Prefrontal area FD 6 33 2 42	 PFC	FRONTAL
+5 10 Area 10 8 100 39 154	 PFC	FRONTAL
+6 10m Medial area 10 9 21 4 24	 PFC	FRONTAL
+6 10v Ventral area 10 11 7 3 10	 PFC	FRONTAL
+6 10d Dorsal area 10 10 3 3 7	 PFC	FRONTAL
+6 10o Orbital area 10 9 44 2 52	 PFC	FRONTAL
+5 12 Area 12 8 90 31 136	 PFC	FRONTAL
+6 12o Orbital area 12 11 135 10 174	 PFC	FRONTAL
+6 12m Medial area 12 10 54 2 69	 PFC	FRONTAL
+6 47/12 Prefrontal area 47/12 9 24 7 27	 PFC	FRONTAL
+6 12r Rostral area 12 11 38 2 47	 PFC	FRONTAL
+6 12l Lateral area 12 10 123 9 155	 PFC	FRONTAL
+5 11 Area 11 8 127 33 207	 PFC	FRONTAL
+6 11l Lateral area 11 9 39 4 52	 PFC	FRONTAL
+6 11m Medial area 11 11 63 4 76	 PFC	FRONTAL
+5 9 Area 9 8 125 53 219	 PFC	FRONTAL
+6 L9 Lateral area 9 10 7 1 9	 PFC	FRONTAL
+6 M9 Medial area 9 9 43 1 51	 PFC	FRONTAL
+6 D9 dorsal area 9 11 26 1 30	 PFC	FRONTAL
+5 46 Cortical area 46 7 211 46 366	 PFC	FRONTAL
+6 46v Ventral area 46 10 89 12 120	 PFC	FRONTAL
+6 46d Dorsal area 46 9 45 11 58	 PFC	FRONTAL
+6 PS Principal Sulcus 11 70 1 72	 PFC	FRONTAL
+6 46f Area 46 (fundus of the principal sulcus) 10 2 1 2	 PFC	FRONTAL
+6 46vr Area 46 (ventral rim of the principal sulcus) 9 5 3 5	 PFC	FRONTAL
+6 46dr Area 46 (dorsal rim of the principal sulcus) 11 4 2 4	 PFC	FRONTAL
+6 9/46 Cortical area 9/46 8 0 2 0	 PFC	FRONTAL
+7 9/46v Cortical area 9/46v 10 13 3 15	 PFC	FRONTAL
+7 9/46d Cortical area 9/46d 9 30 3 36	 PFC	FRONTAL
+4 8 Area 8 6 54 32 85	 PFC	FRONTAL
+5 FEF Frontal eye field 7 67 13 93	 PFC	FRONTAL
+6 45 Cortical area 45 8 79 32 100	 PFC	FRONTAL
+7 45A Cortical area 45A 11 31 9 43	 PFC	FRONTAL
+7 45B Cortical area 45B 10 12 5 14	 PFC	FRONTAL
+6 8A Area 8A 8 97 17 133	 PFC	FRONTAL
+7 8Ad Dorsal portion of area 8A 9 29 3 32	 PFC	FRONTAL
+7 8Ac Caudal area 8A 11 6 4 7	 PFC	FRONTAL
+5 8B Area 8B 10 89 23 116	 PFC	FRONTAL
+3 6#1 Area 6 6 70 50 114	 PFC	FRONTAL
+4 6V Area 6 (ventral part) 8 74 12 258	 PFC	FRONTAL
+5 F5 Agranular frontal area 5 (= rostral ventrolateral premotor area) 9 88 16 137	PFC	FRONTAL
+5 PrCO Precentral opercular area 11 36 16 51	PFC	FRONTAL
+5 4c Motor area 4c 10 17 7 20	PFC	FRONTAL
+5 6Vb Premotor area 6Vb 9 20 9 23	PFC	FRONTAL
+5 6Va Premotor area 6Va 11 23 10 25	PFC	FRONTAL
+5 F4 Agranular frontal area 4 (= caudal ventrolateral premotor area) 10 48 13 84	PFC	FRONTAL
+4 44 Cortical area 44 9 6 4 6	PFC	FRONTAL
+4 6b-beta Premotor area 6b-beta 11 2 2 2	PFC	FRONTAL
+4 6D Premotor area 6 (dorsal part) 8 82 22 151	PFC	FRONTAL
+5 F7 Agranular frontal area 7 (= rostral dorsolateral premotor area) 10 124 28 245	PFC	FRONTAL
+5 F2 Agranular frontal area 2 (= caudal dorsolateral premotor area) 9 88 22 183	PFC	FRONTAL
+4 6M Medial premotor area 6M 7 93 50 188	PFC	FRONTAL
+5 F3 Agranular frontal area 3 (= SMA-proper) 8 69 15 162	PFC	FRONTAL
+6 SMAr SMA - rostral part 11 41 1 43	PFC	FRONTAL
+6 SMAc SMA - caudal part 10 2 1 2	PFC	FRONTAL
+"5 M2-HL Supplementary motor cortex M2, hindlimb area 9 7 1 15"	PFC	FRONTAL
+"5 M2-FL Supplementary motor cortex M2, forelimb area 11 6 1 13"	PFC	FRONTAL
+5 F6 Agranular frontal area 6 (= pre-SMA) 10 57 17 108	PFC	FRONTAL
+3 M1 Primary motor area 8 96 57 246	MOTOR FRONTAL	
+"4 M1-FL Primary motor cortex M1, forelimb area 9 86 16 164"	MOTOR FRONTAL	
+4 MI-of orofacial representation in MI 11 24 5 34	MOTOR FRONTAL	
+4 4b Motor area 4b 10 2 1 2	MOTOR FRONTAL	
+4 4a Motor area 4a 9 2 1 2	MOTOR FRONTAL	
+4 MI-body body representation of MI as defined in KSI03 11 21 4 28	MOTOR FRONTAL	
+"4 M1-HL Primary motor cortex M1, hindlimb area 10 31 6 44"	MOTOR FRONTAL	
+2 Pl#6 ParietalLobe according to GM-Definition 5 0 1 0		
+3 S1 Primary somatosensory cortex 7 31 39 68	MOTOR	PARIETAL
+4 PC#1 Primary sensory area PC 8 14 3 18	PRIMOTOR	PARIETAL
+5 1#1 Area 1 9 49 46 149	PRIMOTOR	PARIETAL
+5 2#1 Area 2 11 54 43 153	PRIMOTOR	PARIETAL
+4 3#1 Area 3 8 27 14 33	PRIMOTOR	PARIETAL
+5 3b Postcentral area 3b 10 32 28 75	PRIMOTOR	PARIETAL
+5 3a Postcentral area 3a 9 35 26 67	PRIMOTOR	PARIETAL
+3 S2 Secondary somatosensory cortex 8 81 56 206	SECMOTOR	PARIETAL
+4 SII-f face representation in SII as defined in DLRPK03 11 5 3 13	SECMOTOR	PARIETAL
+4 CMA#2 Cortical masticatory area 10 2 4 2	SECMOTOR	PARIETAL
+3 belt s belt line of the sensory system according to CP99 9 13 1 21	SECMOTOR	PARIETAL
+3 PR#4 rostroventral parietal area as defined in DLRPK03 11 19 6 54	INFPARIETAL	PARIETAL
+3 7#1 Area 7 6 63 17 133	INFPARIETAL	PARIETAL
+4 PFop Rostral parietal operculum 10 9 6 20	INFPARIETAL	PARIETAL
+4 PP Posterior parietal area 9 3 3 3	INFPARIETAL	PARIETAL
+4 PGop Caudal parietal operculum 11 13 10 15	INFPARIETAL	PARIETAL
+4 IPL Inferior Parietal Lobule 7 68 7 101	INFPARIETAL	PARIETAL
+5 7a Area 7a 8 52 29 74	INFPARIETAL	PARIETAL
+6 PG#1 Caudal inferior parietal lobule 10 77 28 104	INFPARIETAL	PARIETAL
+6 Opt Occipitoparietal area 9 38 10 46	INFPARIETAL	PARIETAL
+5 7b Area 7b 8 92 29 143	INFPARIETAL	PARIETAL
+6 PFG#1 Midpart of the inferior parietal lobule 11 38 8 47	INFPARIETAL	PARIETAL
+6 PF#1 Rostral inferior parietal lobule 10 54 13 73	INFPARIETAL	PARIETAL
+3 PCip Cortex of the intraparietal sulcus 7 0 2 0	IPS	PARIETAL
+4 LIP Lateral intraparietal area 8 128 33 207	IPS	PARIETAL
+5 LIPe Lateral intraparietal area (external part) 9 15 10 19	IPS	PARIETAL
+5 LIPi Lateral intraparietal area (internal part) 11 18 11 21	IPS	PARIETAL
+4 VIP Ventral intraparietal area 10 43 34 64	IPS	PARIETAL
+4 PIP#1 Posterior intraparietal area 9 17 7 21	IPS	PARIETAL
+4 AIP Anterior intraparietal area 11 14 9 20	IPS	PARIETAL
+4 MIP Medial intraparietal area 10 50 23 83	IPS	PARIETAL
+3 PCd#2 Dorsal parietal cortex (= SPL and precuneus) 7 0 2 0		
+4 SPL Superior Parietal Lobule 8 46 37 100		DORSALPARIETAL PARIETAL
+5 PEm Rostral superior parietal lobule 9 57 14 87	DORSALPARIETAL PARIETAL	
+5 5 Foot Receptive field for the foot in Area5 11 4 1 4	DORSALPARIETAL PARIETAL	
+5 PEc#1 Caudal and medial superior parietal lobule 10 58 11 82	DORSALPARIETAL PARIETAL	
+4 PCm Medial parietal cortex (= Precuneus) 8 0 2 0	MEDIALPARIETAL PARIETAL	
+"5 PGm Parietal area PG, medial part 9 107 17 149"	MEDIALPARIETAL PARIETAL	
+5 31 Area 31 11 54 11 64	MEDIALPARIETAL PARIETAL	
+5 PECg Parietal area PE (cingulate part) 10 61 9 72	MEDIALPARIETAL PARIETAL	
+2 CgG#2 Cingulate Gyrus according to GM-Definition 6 0 2 0		
+3 24 Anterior cingulate area 24 8 176 55 383	ACC	CINGULATE
+4 24c Area 24c (rostral part of the cingulate sulcus) 9 77 28 135	ACC	CINGULATE
+4 24d Area 24d (rostral part of the cingulate sulcus) 11 27 23 48	ACC	CINGULATE
+4 24b Area 24b 10 67 16 100	ACC	CINGULATE
+4 24a Area 24a 9 47 15 76	ACC	CINGULATE
+3 23 Area 23 8 82 37 169	MCC	CINGULATE
+4 23c Area 23c 11 88 43 198	MCC	CINGULATE
+4 23b Area 23b 10 33 9 55	MCC	CINGULATE
+4 TSA Transitional sensory area 9 25 1 29	MCC	CINGULATE
+4 23a Area 23a 11 19 9 31	MCC	CINGULATE
+3 26 Area 26 7 5 12 6	PCC	CINGULATE
+4 29 Area 29 8 15 14 20	PCC	CINGULATE
+5 CML Caudomedial lobule 10 2 1 2	PCC	CINGULATE
+5 29d Area 29d 9 9 9 12	PCC	CINGULATE
+5 29a-c Cortical area 29a-c 11 20 20 50	PCC	CINGULATE
+4 30 Retrosplenial area 30 10 20 17 30	PCC	CINGULATE
+3 25 Area 25 9 82 44 142	PCC	CINGULATE
+2 Insula Insula 6 52 5 66		
+3 Ig#1 Granular insular cortex 11 48 26 86	INSULA	INSULA
+3 Ri#1 Retroinsular area 10 22 24 44	INSULA	INSULA
+3 IPro Insular proisocortex 9 3 2 3	INSULA	INSULA
+3 Pi#1 Parainsular field/cortex 11 34 16 40	INSULA	INSULA
+3 IA#1 Anterior insula 7 0 4 0	ANTINSULA	INSULA
+4 Idg Dysgranular insular cortex 10 58 20 76	ANTINSULA	INSULA
+4 Ia#2 Agranular insula 8 37 16 47	ANTINSULA	INSULA
+5 Ial Lateral agranular insular cortex 9 23 5 42	ANTINSULA	INSULA
+5 Iam Medial agranular insular cortex 11 49 5 67	ANTINSULA	INSULA
+5 Iapm Posteromedial agranular insular cortex 10 51 2 61	ANTINSULA	INSULA
+5 Iai Intermediate agranula insular cortex 9 86 3 120	ANTINSULA	INSULA
+2 TL#2 Temporal Lobe according to GM-Definition 2 0 1 0	ANTINSULA	INSULA
+3 TCv Ventral Temporal Cortex 3 0 2 0	VENTRALTEMP	TEMPORAL
+4 TF Temporal area TF 8 127 54 199	VENTRALTEMP	TEMPORAL
+5 TFM Temporal area TF (medial part) 11 35 7 40	VENTRALTEMP	TEMPORAL
+5 TFL Temporal area TF (lateral part) 10 43 7 47	VENTRALTEMP	TEMPORAL
+4 Per#1 Perirhinal cortex 4 12 4 12	MTL	TEMPORAL
+5 35 Area 35 9 74 57 136	MTL	TEMPORAL
+5 36 Area 36 5 95 42 176	MTL	TEMPORAL
+6 36c Caudal part of area 36 11 53 22 68	MTL	TEMPORAL
+6 36r Rostral part of area 36 10 83 19 130	MTL	TEMPORAL
+6 TG Temporopolar area TG 6 96 18 134	TEMPOLE	TEMPORAL
+7 TPPro Temporal proisocortex 7 49 23 71	TEMPOLE	TEMPORAL
+8 TPag Agranular area of temporal polar cortex 9 17 4 25	TEMPOLE	TEMPORAL
+8 TPg Granular area of temporal polar cortex 11 24 3 34	TEMPOLE	TEMPORAL
+8 TPproD Dysgranular Temporopolar Cortex 8 15 5 23	TEMPOLE	TEMPORAL
+9 TPdgv Ventral dysgranular area of temporal polar cortex 10 10 2 13	TEMPOLE	TEMPORAL
+9 TPdgd Dorsal dysgranular area of temporal polar cortex 9 10 2 13	TEMPOLE	TEMPORAL
+7 36p Cortical area 36p 11 14 4 19	MTL	TEMPORAL
+3 PHC Parahippocampal cortex 6 8 4 13	MTL	TEMPORAL
+4 ENT Entorhinal cortex 7 92 61 176	MTL	TEMPORAL
+5 EL Lateral field of entorhinal cortex 8 27 20 32	MTL	TEMPORAL
+6 ELr Lateral field (rostral part) of entorhinal cortex 10 21 13 23	MTL	TEMPORAL
+6 ELc Lateral field (caudal part) of entorhinal cortex 9 10 14 17	MTL	TEMPORAL
+5 EI Intermediate field of entorhinal cortex 11 37 18 49	MTL	TEMPORAL
+5 ER#1 Rostral field of entorhinal cortex 10 26 6 30	MTL	TEMPORAL
+5 28m medial entorhinal cortex 9 15 12 22	MTL	TEMPORAL
+5 EO Olfactory field of entorhinal cortex 11 17 6 18	MTL	TEMPORAL
+5 ECL Caudal limiting field of entorhinal cortex 10 21 6 28	MTL	TEMPORAL
+5 EC#2 Caudal field of entorhinal cortex 9 44 6 62	MTL	TEMPORAL
+4 S#1 Subiculum 8 32 38 46	MTL	TEMPORAL
+"5 Su#2 Subiculum, uncal portion 11 5 1 6"	MTL	TEMPORAL
+"5 Sb Subiculum, body portion 10 5 1 6"	MTL	TEMPORAL
+4 Pros. prosubiculum 9 26 34 34	MTL	TEMPORAL
+4 PaS Parasubiculum 11 22 24 23	MTL	TEMPORAL
+4 TH Temporal area TH 10 110 48 158	MTL	TEMPORAL
+4 PrS Presubiculum 9 39 38 46	MTL	TEMPORAL
+3 Hip Hippocampus 8 24 66 39	MTL	TEMPORAL
+4 CA1 CA1 subfield of Ammon?Çÿs horn 11 45 87 116	MTL	TEMPORAL
+4 DG dentate gyrus 10 10 31 17	MTL	TEMPORAL
+4 CA3 CA3 subfield of Ammons horn 9 12 44 15	MTL	TEMPORAL
+3 STG superior temporal gyrus 5 29 10 61	STG	TEMPORAL
+4 STP#2 Supratemporal plane 6 0 1 0	STG	TEMPORAL
+5 A1 Primary auditory cortex 11 49 40 109	STG	TEMPORAL
+"5 STPg Supratemporal cortex, granular 10 24 1 24"	STG	TEMPORAL
+5 A2 Secondary auditory cortex 7 33 9 40	STG	TEMPORAL
+6 Pa#2 Postauditory field 8 11 12 22	STG	TEMPORAL
+7 ProK auditory prokoniocortex 9 19 11 32	STG	TEMPORAL
+7 paAc Caudal auditory parakoniocortex 11 28 6 42	STG	TEMPORAL
+6 paAlt Lateral auditory parakoniocortex 8 40 17 91	STG	TEMPORAL
+7 L#1 Lateral auditory field 10 33 7 54	STG	TEMPORAL
+7 CL#4 cudal lateral auditory (belt) 9 23 5 32	STG	TEMPORAL
+7 AL#4 anterior lateral auditory belt 11 21 3 27	STG	TEMPORAL
+4 TA Temporal area TA 7 28 13 49	STG	TEMPORAL
+5 Ts Area temporalis superior 8 0 2 0	STG	TEMPORAL
+6 ST3 Superior temporal area 3 10 57 20 76	STG	TEMPORAL
+6 ST2 Superior temporal area 2 9 50 16 65	STG	TEMPORAL
+6 ST1 Superior temporal area 1 11 39 16 47	STG	TEMPORAL
+5 Tpt Temporoparietal cortex 10 50 16 61	STG	TEMPORAL
+3 TE Inferotemporal area TE 6 115 45 222	IT TEMPORAL	
+4 20 Area 20 7 19 9 28	IT TEMPORAL	
+5 AITv Anterior inferotemporal area (ventral) 9 68 19 102	IT TEMPORAL	
+5 CIT Central inferotemporal area 8 29 7 38		IT TEMPORAL
+6 CITd Central inferotemporal area (dorsal) 11 11 14 13	IT TEMPORAL	
+6 CITv Central inferotemporal area (ventral) 10 36 13 39	IT TEMPORAL	
+4 21 Area 21 7 12 9 14	IT TEMPORAL	
+5 AITd Anterior inferotemporal area (dorsal) 8 57 11 80	IT TEMPORAL	
+6 TEa#3 anterior part of area TE 9 30 18 34	IT TEMPORAL	
+6 TEm Cortical area TEm 11 14 15 18	IT TEMPORAL	
+5 PIT Posterior inferotemporal area 8 112 47 216	IT TEMPORAL	
+6 PITd Posterior inferotemporal area (dorsal) 10 18 8 25	IT TEMPORAL	
+6 PITv Posterior inferotemporal area (ventral) 9 20 4 20	IT TEMPORAL	
+3 STS Superior temporal sulcus 6 54 7 117	STS TEMPORAL	
+"4 STSd Superior temporal sulcus, dorsal 7 25 2 28"	STS TEMPORAL	
+5 TPO Temporal parietooccipital associated area in the STS 8 72 15 98	STS TEMPORAL	
+6 TPOc Temporoparietal asscociated area (caudal part) 11 51 14 67	STS TEMPORAL	
+6 TPOi Temporoparietal associated area (intermediate part) 10 6 2 6	STS TEMPORAL	
+6 TPOr Temporoparietal associated area (rostral part) 9 30 12 46	STS TEMPORAL	
+5 TAa Temporal area TAa 11 45 12 58	STS TEMPORAL	
+"4 STSf Superior temporal sulcus, fundus 8 0 1 0"	STS TEMPORAL	
+5 PGa Cortical area PGa 10 36 13 48	STS TEMPORAL	
+5 IPa Intraparietal sulcus associated area in the STS 9 37 17 47	STS	TEMPORAL
+4 OAa Cortical area OAa 7 15 7 21	STS	TEMPORAL
+5 MT Middle temporal area 11 75 52 113	STS	TEMPORAL
+5 MTp Peripheral part of area MT 10 8 7 8	STS	TEMPORAL
+5 FST Floor of superior temporal sulcus 9 48 23 73	STS	TEMPORAL
+5 MST Medial superior temporal area 8 22 36 27	STS	TEMPORAL
+6 MSTp Medial superior temporal area (posterior) 11 20 3 20	STS	TEMPORAL
+6 MSTd Medial superior temporal area (dorsal) 10 49 6 70	STS	TEMPORAL
+2 OC#2 OccipitalLobe according to GM-Definition 4 0 5 0		
+3 VAC Visual anterior cortex 5 0 2 0	VISUAL	OCCIPITAL
+4 OA Extrastriate area OA 6 38 27 71	VISUAL 	OCCIPITAL
+5 V3A Visual area 3A 9 32 24 47	VISUAL 	OCCIPITAL
+5 V3 Visual area 3 8 35 29 46	VISUAL 	OCCIPITAL
+6 V3d Dorsal visual area 3 11 8 14 12	VISUAL 	OCCIPITAL
+6 V3v Ventral visual area 3 10 38 27 68	VISUAL 	OCCIPITAL
+5 V4 Visual area 4 7 78 50 138	VISUAL 	OCCIPITAL
+6 V4t V4 transitional area 9 26 24 35	VISUAL 	OCCIPITAL
+6 V4d Visual area 4 (dorsal part) 8 18 7 23	VISUAL 	OCCIPITAL
+"7 DLr dorsolateral visual cortex, rostral part 11 2 2 4"	VISUAL 	OCCIPITAL
+"7 DLc dorsolateral visual cortex, caudal part 10 2 2 4"	VISUAL 	OCCIPITAL
+6 V4v Visual area 4 (ventral part) 9 6 6 8	VISUAL 	OCCIPITAL
+5 VPP Ventral posterior parietal area 11 2 2 3	VISUAL 	OCCIPITAL
+5 DI#1 dorsointermediate visual field 10 2 2 4	VISUAL 	OCCIPITAL
+5 PO#4 medial visual association area 8 35 21 48	VISUAL 	OCCIPITAL
+6 V6A Visual area V6A 9 33 6 48	VISUAL 	OCCIPITAL
+6 V6 Visual area 6 11 41 10 57	VISUAL 	OCCIPITAL
+5 DP Dorsal prelunate gyrus 10 36 16 40	VISUAL 	OCCIPITAL
+4 VOT Ventral occipitotemporal area 9 7 3 9	VISUAL 	OCCIPITAL
+3 V1 Visual area 1 11 47 113 158	VISUAL 	OCCIPITAL
+3 ProSt Prostriate cortex 10 3 3 3	VISUAL 	OCCIPITAL
+3 V2 Visual area 2 9 82 68 205	VISUAL 	OCCIPITAL
+1 BG Basal Ganglia according to GM-Definition 5 0 1 0		
+2 Amyg Amygdala 6 23 17 49 AMYGDALA	BASALGANGLIA	
+3 B#2 basal amygdaloid nucleus 8 65 56 91 AMYGDALA	BASALGANGLIA	
+4 Bla Basolateral nucleus of amygdala 11 53 27 68 AMYGDALA	BASALGANGLIA	
+"4 Abpc Accessory basal amygdaloid nucleus, parvicellular part 10 45 49 81 AMYGDALA"	BASALGANGLIA	
+"4 Bi Basal amygdaloid nucleus, intermediate part 9 43 10 50 AMYGDALA"	BASALGANGLIA	
+"4 ABd Accessory basal amygdaloid nucleus, dorsal division 11 23 2 45 AMYGDALA"	BASALGANGLIA	
+"4 Bvl Basal amygdaloid nucleus, ventral lateral division 10 19 1 27 AMYGDALA"	BASALGANGLIA	
+"4 ABv Accessory basal amygdaloid nucleus, ventral division 9 23 1 32 AMYGDALA"	BASALGANGLIA	
+4 MB Medial basal nucleus of the amygdala 11 38 25 46 AMYGDALA	BASALGANGLIA	
+"4 ABvm Accessor basal nucleus (amygdala), ventromedial division 10 30 10 51 AMYGDALA"	BASALGANGLIA	
+"4 ABmg accessory basal nucleus (amygdala), magnocellular subdivision 9 49 32 82 AMYGDALA"	BASALGANGLIA	
+3 A anterior amygdaloid area 11 24 30 26 AMYGDALA	BASALGANGLIA	
+3 I#2 Intercalated amygdaloid nucleus 10 6 13 6 AMYGDALA	BASALGANGLIA	
+3 ME#1 Medial nucleus of the amygdala 9 25 38 31 AMYGDALA	BASALGANGLIA	
+3 CE#1 central nucleus of the amygdala 11 26 61 50 AMYGDALA	BASALGANGLIA	
+3 PAC#1 periamygdaloid cortex 7 25 26 36 AMYGDALA	BASALGANGLIA	
+4 AHA amygdalohippocampal area 10 16 43 21 AMYGDALA	BASALGANGLIA	
+4 PAC2 Periamygdaloid cortex 2 9 21 44 52 AMYGDALA	BASALGANGLIA	
+4 Co cortical nucleus (amygdala) 8 10 21 13 AMYGDALA	BASALGANGLIA	
+"5 COp cortical nucleus, posterior division 11 12 14 14 AMYGDALA"	BASALGANGLIA	
+5 NLOT Nucleus of the lateral olfactory tract 10 9 13 9 AMYGDALA	BASALGANGLIA	
+"5 COa cortical nucleus, anterior division 9 14 16 15 AMYGDALA"	BASALGANGLIA	
+"3 L#2 lateral nucleus, amygdala 7 86 40 134 AMYGDALA"	BASALGANGLIA	
+"4 Ldm Lateral amygdaloid nucleus, dorsomedial region 8 0 2 0 AMYGDALA"	BASALGANGLIA	
+"5 Ldi Lateral nucleus (amygdala), dorsal intermediate division 11 58 4 69 AMYGDALA"	BASALGANGLIA	
+"5 Ld#2 Lateral nucleus (amygdala), dorsal division 10 35 4 43 AMYGDALA"	BASALGANGLIA	
+"4 Lv Lateral nucleus (amygdala), ventral division 9 52 4 68 AMYGDALA"	BASALGANGLIA	
+"4 Lvl lateral nucleus (amygdala), ventrolateral subdivision 11 43 7 50 AMYGDALA"	BASALGANGLIA	
+2 SN substantia nigra 10 8 6 8	SUBSTANTIA	BASALGANGLIA
+2 SI#2 substantia innominata 9 55 19 194	SUBSTANTIAIN	BASALGANGLIA
+2 Sub.Th Nucleus subthalamic 11 3 6 3	SUBTHAL	BASALGANGLIA
+"2 GPe Globus pallidus, external part 10 4 6 7"	GP	BASALGANGLIA
+2 STR striatum 7 0 1 0 STR	BASALGANGLIA	
+3 Cd Nucleus caudatus 8 52 123 237	CAUD	BASALGANGLIA
+4 Cd t Nucleus caudatus; tail 9 17 44 56	CAUD	BASALGANGLIA
+4 Cd g Nucleus caudatus; genu 11 28 57 87	CAUD	BASALGANGLIA
+3 Pu Putamen 8 20 46 43	PUTAMEN	BASALGANGLIA
+4 Pu r Putamen; rostral 10 46 50 122	PUTAMEN	BASALGANGLIA
+4 Pu c Putamen; caudal 9 27 49 72	PUTAMEN	BASALGANGLIA
+2 Clau Claustrum 11 25 17 26	CLAU	BASALGANGLIA
+1 MB#2 Mid Brain 10 20 81 99	MIDB	BASALGANGLIA
+1 OFC Olfactory Complex 9 17 35 26 OLFC	OLFC	
